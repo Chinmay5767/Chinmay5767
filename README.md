@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chinmay5767
+- 👋 Hi, I’m Chinmay Beedkar
 - 👀 I’m interested in flutter and competitive programming
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
